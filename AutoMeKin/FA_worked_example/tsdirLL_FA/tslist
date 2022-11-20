@@ -1,0 +1,10 @@
+ts    1       ts1_torsion            458   -78.1007        573        846       1034       1195 traj= tors Path=    torsion
+ts    2        ts2_batch4           1588   -35.7105        206        438        461        728 traj=    2 Path=     batch4
+ts    3        ts3_batch3           1540   -44.9177        267        328        682        841 traj=    1 Path=     batch3
+ts    4        ts4_batch1           1700   -54.8122        841        974       1015       1113 traj=    6 Path=     batch1
+ts    5        ts5_batch6           2015   -17.6124        326        473        523       1077 traj=    2 Path=     batch6
+ts    6        ts6_batch9           2929   -20.1730        451        587        906        998 traj=    2 Path=     batch9
+ts    7        ts7_batch6           1970   -24.7272        355        496        642       1064 traj=    6 Path=     batch6
+ts    8        ts8_batch6            486   -78.8034        133        162        237        296 traj=    6 Path=     batch6
+ts    9       ts9_torsion            543   -67.9300        354        476        649        882 traj= tors Path=    torsion
+ts   10      ts10_torsion            553   -60.4522        429        476        515        814 traj= tors Path=    torsion
