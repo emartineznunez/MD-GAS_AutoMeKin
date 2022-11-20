@@ -1,0 +1,20 @@
+MIN 1 E= -8.323483  rep= 5
+minf_ts1_torsion.rxyz
+minf_ts4_batch1.rxyz
+minr_ts2_batch4.rxyz
+minr_ts4_batch1.rxyz
+minr_ts7_batch6.rxyz
+MIN 2 E= 0.000000  rep= 4
+min0_0.rxyz
+minf_ts6_batch9.rxyz
+minr_ts1_torsion.rxyz
+minr_ts5_batch6.rxyz
+MIN 3 E= 5.285625  rep= 1
+minf_ts9_torsion.rxyz
+MIN 4 E= 6.733766  rep= 3
+minf_ts10_torsion.rxyz
+minf_ts7_batch6.rxyz
+minr_ts9_torsion.rxyz
+MIN 5 E= 15.369981  rep= 2
+minf_ts5_batch6.rxyz
+minr_ts10_torsion.rxyz

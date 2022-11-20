@@ -1,0 +1,16 @@
+Nomenclature
+min 1 --> min0_0.rxyz
+min 2 --> minf_ts10_torsion.rxyz
+min 3 --> minf_ts1_torsion.rxyz
+min 4 --> minf_ts4_batch1.rxyz
+min 5 --> minf_ts5_batch6.rxyz
+min 6 --> minf_ts6_batch9.rxyz
+min 7 --> minf_ts7_batch6.rxyz
+min 8 --> minf_ts9_torsion.rxyz
+min 9 --> minr_ts10_torsion.rxyz
+min 10 --> minr_ts1_torsion.rxyz
+min 11 --> minr_ts2_batch4.rxyz
+min 12 --> minr_ts4_batch1.rxyz
+min 13 --> minr_ts5_batch6.rxyz
+min 14 --> minr_ts7_batch6.rxyz
+min 15 --> minr_ts9_torsion.rxyz
