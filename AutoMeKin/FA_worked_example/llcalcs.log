@@ -1,0 +1,73 @@
+nohup: no se tendrá en cuenta la entrada
+===================================
+                                   
+           AutoMeKin2021           
+                                   
+        revision number 1132   
+                                   
+===================================
+
+Number of iterations  = 2
+Tasks per iteration   = 10
+
+GENERAL    
+Name of the system    = FA
+Charge                = 0
+Number of atoms       = 5
+Low-level MD simul.   = mopac pm7
+Low-level TS optim.   = mopac pm7
+
+METHOD     
+MD sampling
+BBFS algorithm details:
+Attempts/single path  = 1 
+All atoms are excited 
+Temperature (K)       = Automatically selected
+Number of trajs       = 10
+Total time (fs)       = 500
+
+SCREENING   
+Min imag freq (cm-1)  = 200
+Max energy (kcal/mol) = 225
+Max value of MAPE     = 0.008
+Max value of BAPE     = 2.5
+
+
+CALCULATIONS START HERE
+
+=======================
+      Iter: 1/2
+=======================
+   Running TS search
+   time:    8 s
+   Running IRC      
+   time:    6 s
+   New TSs found: 8
+   Running min opt  
+   time:    9 s
+   Building network 
+   time:   17 s
+   Running Kinetics 
+   time:    0 s
+
+=======================
+      Iter: 2/2
+=======================
+   Running TS search
+   time:   23 s
+   Running IRC      
+   time:    3 s
+   New TSs found: 2
+   Running min opt  
+   time:    2 s
+   Building network 
+   time:    5 s
+   Running Kinetics 
+   time:    0 s
+
+Adding Barrierless reactions
+   time:   16 s
+Making final folder: FINAL_LL_FA
+
+END OF THE CALCULATIONS
+

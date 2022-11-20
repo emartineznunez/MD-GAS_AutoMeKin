@@ -1,0 +1,27 @@
+
+CALCULATIONS START HERE
+Optimizing the starting structure
+The value of e0=-80.800195
+The absolute value of emaxts= 144.199805
+
+
+
+=====MIN:    1 =====
+Number of torsions 1
+
+Running the TS search for tors 1 around bond: 3-1
+1 possible candidate(s):
+     Pt 1: TS optimized but not added-->redundant with ts    1
+
+=====MIN:    3 =====
+Number of torsions 2
+
+Running the TS search for tors 1 around bond: 2-1
+1 possible candidate(s):
+     Pt 1: TS optimized and added to ts list
+
+Running the TS search for tors 2 around bond: 3-1
+1 possible candidate(s):
+     Pt 1: TS optimized and added to ts list
+
+Cleaning up tmp files and exiting tors.sh

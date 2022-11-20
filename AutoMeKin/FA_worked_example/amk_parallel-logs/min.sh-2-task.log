@@ -1,0 +1,3 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+1	:	1668943425.371	     0.052	0	0	0	0	runmin.sh 1 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+2	:	1668943425.569	     0.052	0	0	0	0	runmin.sh 2 /home/emilio/FA_worked_example/tsdirLL_FA mopac

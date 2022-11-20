@@ -1,0 +1,12 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+1	:	1668943357.759	     1.687	0	0	0	0	runGP.sh 1 FA /home/emilio/FA_worked_example 11 0 -80.80020
+8	:	1668943359.166	     2.153	0	0	0	0	runGP.sh 8 FA /home/emilio/FA_worked_example 11 0 -80.80020
+5	:	1668943358.553	     3.305	0	0	0	0	runGP.sh 5 FA /home/emilio/FA_worked_example 11 0 -80.80020
+2	:	1668943357.956	     3.957	0	0	0	0	runGP.sh 2 FA /home/emilio/FA_worked_example 11 0 -80.80020
+6	:	1668943358.755	     3.954	0	0	0	0	runGP.sh 6 FA /home/emilio/FA_worked_example 11 0 -80.80020
+11	:	1668943359.777	     3.130	0	0	0	0	runGP.sh 11 FA /home/emilio/FA_worked_example 11 0 -80.80020
+3	:	1668943358.154	     4.796	0	0	0	0	runGP.sh 3 FA /home/emilio/FA_worked_example 11 0 -80.80020
+4	:	1668943358.355	     4.706	0	0	0	0	runGP.sh 4 FA /home/emilio/FA_worked_example 11 0 -80.80020
+10	:	1668943359.563	     4.423	0	0	0	0	runGP.sh 10 FA /home/emilio/FA_worked_example 11 0 -80.80020
+9	:	1668943359.364	     5.493	0	0	0	0	runGP.sh 9 FA /home/emilio/FA_worked_example 11 0 -80.80020
+7	:	1668943358.954	     6.450	0	0	0	0	runGP.sh 7 FA /home/emilio/FA_worked_example 11 0 -80.80020

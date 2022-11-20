@@ -1,0 +1,6 @@
+ TS #   DE(kcal/mol)           Reaction path information
+ ====   ============           =========================
+    7       41.0             MIN    1 ---->       PR1:  CO + H2O        
+    8       53.2             MIN    1 <--->             MIN    3        
+    9       58.2             MIN    1 ---->       PR2:  H2 + CO2        
+   10       60.0             MIN    1 <--->             MIN    3        

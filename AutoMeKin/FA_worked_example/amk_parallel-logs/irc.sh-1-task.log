@@ -1,0 +1,9 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+1	:	1668943369.587	     0.358	0	0	0	0	runirc.sh 1 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+2	:	1668943369.785	     0.517	0	0	0	0	runirc.sh 2 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+4	:	1668943370.181	     0.239	0	0	0	0	runirc.sh 4 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+3	:	1668943369.983	     0.555	0	0	0	0	runirc.sh 3 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+5	:	1668943370.379	     0.266	0	0	0	0	runirc.sh 5 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+7	:	1668943370.775	     0.263	0	0	0	0	runirc.sh 7 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+6	:	1668943370.577	     0.474	0	0	0	0	runirc.sh 6 /home/emilio/FA_worked_example/tsdirLL_FA mopac
+8	:	1668943370.972	     0.438	0	0	0	0	runirc.sh 8 /home/emilio/FA_worked_example/tsdirLL_FA mopac

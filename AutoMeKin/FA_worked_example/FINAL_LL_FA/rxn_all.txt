@@ -1,0 +1,5 @@
+1 3 2
+1 CO+H2O 1
+1 H2+CO2 1
+1 HO+CHO 1
+3 HO+CHO 1

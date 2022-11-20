@@ -1,0 +1,16 @@
+#################################################### 
+#                                                  # 
+#        Properties of the reaction network        # 
+#                                                  # 
+#################################################### 
+ 
+   Number of nodes =       5 
+   Number of edges =       5 
+   Average shortest path length of the current network             =     1.5 
+   Average shortest path length of the equivalent random network   = 2.6613970623749075 
+   Average clustering coefficient of the current network           = 0.4333333333333334 
+   Average clustering coefficient of the equivalent random network = 0.32243333333333246 
+   Transitivity of the current network                             =   0.375 
+   Transitivity of the equivalent random network                   = 0.35280357142857144 
+   Density of edges (edges/possible_edges)                         =     0.5 
+   Degree assortativity coefficient                                = -0.805555555555556 
