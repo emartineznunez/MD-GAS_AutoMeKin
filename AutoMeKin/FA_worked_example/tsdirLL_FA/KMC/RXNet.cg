@@ -1,0 +1,6 @@
+KMC file
+ number         TS file name                                             NisoR NisoP
+TS    7      ts2_batch4.rxyz DE=   40.958 Path:  MIN   1 <-->   PROD   1     2
+TS    8      ts7_batch6.rxyz DE=   53.171 Path:  MIN   1 <-->    MIN   3     2     3
+TS    9      ts6_batch9.rxyz DE=   58.154 Path:  MIN   1 <-->   PROD   4     2
+TS   10      ts5_batch6.rxyz DE=   60.015 Path:  MIN   1 <-->    MIN   3     2     3

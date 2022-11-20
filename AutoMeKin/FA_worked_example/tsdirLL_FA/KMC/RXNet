@@ -1,0 +1,11 @@
+KMC file
+TS    1      ts8_batch6.rxyz DE=   -2.051 Path: PROD   5 <-->   PROD   6
+TS    2     ts1_torsion.rxyz DE=    1.870 Path:  MIN   1 <-->    MIN   2
+TS    3     ts9_torsion.rxyz DE=    9.640 Path:  MIN   3 <-->    MIN   4
+TS    4    ts10_torsion.rxyz DE=   16.939 Path:  MIN   4 <-->    MIN   5
+TS    5      ts4_batch1.rxyz DE=   25.137 Path:  MIN   1 <-->    MIN   1
+TS    6      ts3_batch3.rxyz DE=   32.854 Path: PROD   2 <-->   PROD   3
+TS    7      ts2_batch4.rxyz DE=   40.958 Path:  MIN   1 <-->   PROD   1
+TS    8      ts7_batch6.rxyz DE=   53.171 Path:  MIN   1 <-->    MIN   4
+TS    9      ts6_batch9.rxyz DE=   58.154 Path:  MIN   2 <-->   PROD   4
+TS   10      ts5_batch6.rxyz DE=   60.015 Path:  MIN   2 <-->    MIN   5

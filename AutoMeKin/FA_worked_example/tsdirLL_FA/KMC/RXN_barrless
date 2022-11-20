@@ -1,0 +1,11 @@
+ TS #    DE(kcal/mol)    -------Path info--------
+1 159.8651 MIN 1 <--> PROD 7
+2 182.3268 MIN 3 <--> PROD 8
+PROD 1 CO + H2O
+PROD 2 H2 + CO2
+PROD 3 CO + H2O
+PROD 4 H2 + CO2
+PROD 5 CO + H2O
+PROD 6 CO + H2O
+PROD 7 HO + CHO
+PROD 8 HO + CHO

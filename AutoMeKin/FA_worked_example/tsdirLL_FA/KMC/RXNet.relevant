@@ -1,0 +1,6 @@
+KMC file	Number of optimical isomers list
+ number         TS file name                                             NisoR NisoP	 niso_1 nisots niso_2
+TS    7      ts2_batch4.rxyz DE=   40.958 Path:  MIN   1 <-->   PROD   6     2               2      2
+TS    8      ts7_batch6.rxyz DE=   53.171 Path:  MIN   1 <-->    MIN   3     2     3	     2      1      1
+TS   10      ts5_batch6.rxyz DE=   60.015 Path:  MIN   1 <-->    MIN   3     2     3	     2      1      1
+TS    9      ts6_batch9.rxyz DE=   58.154 Path:  MIN   1 <-->   PROD   7     2               2      1

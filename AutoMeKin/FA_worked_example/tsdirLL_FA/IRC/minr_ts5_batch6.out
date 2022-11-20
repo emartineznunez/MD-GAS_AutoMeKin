@@ -1,0 +1,578 @@
+ *******************************************************************************
+ ** Site#:  999         For non-commercial use only           Version 21.129  **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 21.129 , James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web-site: HTTP://OpenMOPAC.net.          **
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Sun Nov 20 12:22:59 2022  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM = 0
+ *
+ *
+ *
+ *  THREADS=1  - MULTI-THREADING NOT USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  CYCLES=    - DO A MAXIMUM OF 5000 STEPS
+ *  DENOUT     - SAVE DENSITY MATRIX FOR USE LATER
+ *******************************************************************************
+   pm7 threads=1 denout charge=0  cycles=5000
+ title
+ title
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C         -0.11601000  *  -0.43749000  *   0.00002000  *
+     2       O          1.07779000  *  -0.35849000  *  -0.00002000  *
+     3       O         -0.82211000  *   0.73210000  *  -0.00001000  *
+     4       H         -0.72132000  *  -1.34240000  *   0.00008000  *
+     5       H         -1.79780000  *   0.63624000  *   0.00003000  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         C         -0.1160     -0.4375      0.0000
+     2         O          1.0778     -0.3585     -0.0000
+     3         O         -0.8221      0.7321     -0.0000
+     4         H         -0.7213     -1.3424      0.0001
+     5         H         -1.7978      0.6362      0.0000
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: C H2 O2  =     5 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   Cs  
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 9
+
+
+          Geometry optimization using EF
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:     1 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.623 HEAT: -80.79573
+ CYCLE:     2 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     5.151 HEAT: -80.79640
+ CYCLE:     3 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     3.421 HEAT: -80.79773
+ CYCLE:     4 TIME:   0.000 TIME LEFT:  2.00D  GRAD.:     0.783 HEAT: -80.79997
+
+     GRADIENT =  0.78275 IS LESS THAN CUTOFF =  1.00000
+
+
+
+ -------------------------------------------------------------------------------
+ pm7 threads=1 denout charge=0  cycles=5000
+ title
+ title
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                              PM7 CALCULATION
+                                                       MOPAC2016 (Version: 21.129 )
+                                                       Sun Nov 20 12:22:59 2022
+
+
+
+
+          FINAL HEAT OF FORMATION =        -80.79997 KCAL/MOL =    -338.06707 KJ/MOL
+
+
+          TOTAL ENERGY            =       -740.29054 EV
+          ELECTRONIC ENERGY       =      -1636.70512 EV  POINT GROUP:     Cs  
+          CORE-CORE REPULSION     =        896.41458 EV
+          COSMO AREA              =         71.87 SQUARE ANGSTROMS
+          COSMO VOLUME            =         52.85 CUBIC ANGSTROMS
+
+          GRADIENT NORM           =          0.78275 = 0.35006 PER ATOM
+          IONIZATION POTENTIAL    =         11.219408 EV
+          HOMO LUMO ENERGIES (EV) =        -11.219  0.649
+          NO. OF FILLED LEVELS    =          9
+          MOLECULAR WEIGHT        =         46.0256
+
+          MOLECULAR DIMENSIONS (Angstroms)
+
+            Atom       Atom       Distance
+            H     5    O     2     3.04101
+            H     4    O     3     1.92595
+            O     3    O     2     0.00000
+
+
+          SCF CALCULATIONS        =          5
+ 
+          WALL-CLOCK TIME         =          0.008 SECONDS
+          COMPUTATION TIME        =          0.006 SECONDS
+
+
+
+
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C         -0.11617333  *  -0.43717364  *   0.00002035  *
+     2       O          1.07803530  *  -0.35880608  *  -0.00002025  *
+     3       O         -0.82285922  *   0.73193889  *  -0.00000972  *
+     4       H         -0.72093744  *  -1.34146854  *   0.00007982  *
+     5       H         -1.79561101  *   0.63611768  *   0.00002885  *
+
+                             CARTESIAN COORDINATES
+
+   1    C       -0.116173325    -0.437173643     0.000020350
+   2    O        1.078035303    -0.358806075    -0.000020245
+   3    O       -0.822859225     0.731938886    -0.000009725
+   4    H       -0.720937441    -1.341468545     0.000079825
+   5    H       -1.795611012     0.636117682     0.000028847
+
+
+           Empirical Formula: C H2 O2  =     5 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   Cs  
+
+
+                  EIGENVALUES  
+ -31.63312 -30.40657 -22.75206 -19.47289 -15.58035 -15.44472 -14.18091 -12.26047
+ -11.21941   0.64896   1.90665   3.77663   4.48644   5.48640
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+  ATOM NO.   TYPE          CHARGE      No. of ELECS.   s-Pop       p-Pop       
+    1          C           0.518216        3.4818     1.14048     2.34130
+    2          O          -0.411183        6.4112     1.87628     4.53491
+    3          O          -0.561282        6.5613     1.83069     4.73059
+    4          H           0.115150        0.8848     0.88485
+    5          H           0.339099        0.6609     0.66090
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.    -3.523    -2.059     0.000     4.081
+ HYBRID        -0.157     0.222    -0.000     0.272
+ SUM           -3.680    -1.837     0.000     4.113
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+     Atom    s        px        py        pz   
+    1  C   1.14048   0.83158   0.82576   0.68397
+    2  O   1.87628   1.24241   1.84515   1.44734
+    3  O   1.83069   1.35845   1.50345   1.86869
+    4  H   0.88485
+    5  H   0.66090
+ *******************************************************************************
+ ** Site#:  999         For non-commercial use only           Version 21.129  **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 21.129 , James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web-site: HTTP://OpenMOPAC.net.          **
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM7 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Sun Nov 20 12:22:59 2022  *
+ *  PM7        - The PM7 Hamiltonian to be used
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM = 0
+ *
+ *
+ *
+ *  LET        - OVERRIDE SOME SAFETY CHECKS
+ *  OLDGEO     - PREVIOUS GEOMETRY TO BE USED
+ *  FORCE      - FORCE CALCULATION SPECIFIED
+ *  THREADS=1  - MULTI-THREADING NOT USED
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  OLDENS     - INITIAL DENSITY MATRIX READ OFF DISK
+ *  THERMO     - THERMODYNAMIC QUANTITIES TO BE CALCULATED
+ *******************************************************************************
+  pm7 threads=1 oldens oldgeo charge=0 force let thermo(298,298)
+ title
+ title
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C         -0.11617333  *  -0.43717364  *   0.00002035  *
+     2       O          1.07803530  *  -0.35880608  *  -0.00002025  *
+     3       O         -0.82285922  *   0.73193889  *  -0.00000972  *
+     4       H         -0.72093744  *  -1.34146854  *   0.00007982  *
+     5       H         -1.79561101  *   0.63611768  *   0.00002885  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         C         -0.1162     -0.4372      0.0000
+     2         O          1.0780     -0.3588     -0.0000
+     3         O         -0.8229      0.7319     -0.0000
+     4         H         -0.7209     -1.3415      0.0001
+     5         H         -1.7956      0.6361      0.0000
+
+ General Reference for PM7:
+ "Optimization of Parameters for Semiempirical Methods VI: More Modifications to the 
+ NDDO Approximations and Re-optimization of Parameters", J. J. P. Stewart, J. Mol. Mod., 1:32, 19 (2013)
+ https://link.springer.com/article/10.1007/s00894-012-1667-x
+
+           Empirical Formula: C H2 O2  =     5 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   Cs  
+
+
+      RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 9
+
+
+
+          HEAT OF FORMATION =     -80.799968 KCALS/MOLE
+
+
+          CARTESIAN COORDINATE DERIVATIVES
+
+   NUMBER  ATOM         X            Y            Z
+
+     1       C     -0.001073     0.111487    -0.000119
+     2       O     -0.177696     0.024853     0.000071
+     3       O      0.507863    -0.330479     0.000002
+     4       H      0.083997     0.144210    -0.000002
+     5       H     -0.413092     0.049928     0.000047
+ 
+
+
+          GRADIENT NORM =   0.78279
+
+          MOLECULAR WEIGHT =   46.03
+
+
+
+          ROTATIONAL CONSTANTS IN CM(-1)
+
+          A =    2.64577690   B =    0.40004805   C =    0.34750451
+
+
+
+           PRINCIPAL MOMENTS OF INERTIA IN UNITS OF 10**(-40)*GRAM-CM**2
+
+          A =       10.5802   B =       69.9735   C =       80.5537
+
+
+          ORIENTATION OF MOLECULE IN FORCE CALCULATION
+
+    NO.       ATOM         X         Y         Z
+
+     1          C      -0.1478   -0.4286   -0.0000
+     2          O       1.0489   -0.4286   -0.0000
+     3          O      -0.7764    0.7843   -0.0000
+     4          H      -0.8105   -1.2913    0.0000
+     5          H      -1.7534    0.7524    0.0000
+
+
+    FIRST DERIVATIVES WILL BE USED IN THE CALCULATION OF SECOND DERIVATIVES
+
+          ESTIMATED TIME TO COMPLETE CALCULATION =        0.00 SECONDS
+
+    FOR POINT-GROUP Cs   THERE ARE   2 UNIQUE SYMMETRY FUNCTIONS.
+
+ STEP:   1 TIME =     0.00 SECS, INTEGRAL =      0.00 TIME LEFT: 172800.00
+ STEP:   2 TIME =     0.00 SECS, INTEGRAL =      0.00 TIME LEFT: 172800.00
+ STEP:   3 TIME =     0.00 SECS, INTEGRAL =      0.00 TIME LEFT: 172800.00
+ STEP:   4 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:   5 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:   6 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:   7 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:   8 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:   9 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:  10 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:  11 TIME =     0.00 SECS, INTEGRAL =      0.01 TIME LEFT: 172799.99
+ STEP:  12 TIME =     0.00 SECS, INTEGRAL =      0.02 TIME LEFT: 172799.98
+ STEP:  13 TIME =     0.00 SECS, INTEGRAL =      0.02 TIME LEFT: 172799.98
+ STEP:  14 TIME =     0.00 SECS, INTEGRAL =      0.02 TIME LEFT: 172799.98
+ STEP:  15 TIME =     0.00 SECS, INTEGRAL =      0.02 TIME LEFT: 172799.98
+
+(To convert to Hartree/Bohr^2, multiply by (10^(-21) x N x a0^2)/(4.184 x 627.51) =  0.0642)
+
+
+           FORCE MATRIX IN MILLIDYNES/ANGSTROM
+
+
+                  C  1       O  2       O  3       H  4       H  5
+ ------------------------------------------------------------------
+     C    1  17.657620
+     O    2  12.761601  14.711322
+     O    3   4.790439   1.969372   8.707303
+     H    4   3.208140   0.839966   0.668476   4.001619
+     H    5   1.006929   0.244401   3.822869   0.081731   4.437594
+
+
+          HEAT OF FORMATION =     -80.799968 KCALS/MOLE
+
+          ZERO POINT ENERGY      18.181 KCAL/MOL
+
+
+           NORMAL COORDINATE ANALYSIS (Total motion = 1 Angstrom)
+
+
+   Root No.       1         2         3         4         5         6         7         8
+
+                 1 A"      1 A'      2 A"      2 A'      3 A'      4 A'      5 A'      6 A'  
+
+                 371.0     562.7     948.5    1126.5    1203.1    1237.4    1839.6    2642.1
+  
+           1   -0.0000   -0.0874   -0.0000    0.0039    0.0202   -0.0398    0.3401   -0.0471
+           2   -0.0000   -0.1455   -0.0000    0.0934   -0.1051    0.1002   -0.0218   -0.0486
+           3   -0.0282   -0.0000   -0.1625   -0.0000   -0.0000    0.0000   -0.0000    0.0000
+           4    0.0000   -0.0889    0.0000    0.0187    0.0401   -0.0456   -0.2532    0.0037
+           5    0.0000    0.1539    0.0000   -0.0122   -0.0110   -0.0227   -0.0033   -0.0022
+           6    0.0329    0.0000    0.0443    0.0000    0.0000    0.0000    0.0000   -0.0000
+           7   -0.0000    0.1480    0.0000   -0.0188   -0.0675    0.0350   -0.0183    0.0049
+           8   -0.0000   -0.0548    0.0000   -0.1056    0.0776   -0.0233    0.0015   -0.0030
+           9   -0.0524    0.0000    0.0295    0.0000    0.0000   -0.0000    0.0000   -0.0000
+          10   -0.0000   -0.0531    0.0000   -0.0766    0.2184    0.6329    0.1541    0.5101
+          11   -0.0000   -0.1438    0.0000    0.1431   -0.2334   -0.4339    0.1880    0.6648
+          12   -0.1212   -0.0000    0.7193   -0.0000   -0.0000   -0.0000    0.0000   -0.0000
+          13    0.0000    0.1560    0.0000    0.0312   -0.0246    0.0092    0.1040   -0.0842
+          14    0.0000    0.3037    0.0000    0.6138    0.4282   -0.0306    0.1003   -0.0037
+          15    0.7653   -0.0000    0.0444   -0.0000   -0.0000    0.0000    0.0000    0.0000
+
+
+   Root No.       9
+
+                 7 A'  
+
+                2786.9
+  
+           1   -0.0215
+           2    0.0002
+           3   -0.0000
+           4    0.0065
+           5   -0.0007
+           6    0.0000
+           7   -0.0471
+           8    0.0016
+           9    0.0000
+          10    0.0534
+          11    0.0529
+          12   -0.0000
+          13    0.8469
+          14   -0.0693
+          15   -0.0000
+
+
+           MASS-WEIGHTED COORDINATE ANALYSIS (NORMAL COORDINATES)
+
+
+   Root No.       1         2         3         4         5         6         7         8
+
+                 1 A"      1 A'      2 A"      2 A'      3 A'      4 A'      5 A'      6 A'  
+
+                 371.0     562.7     948.5    1126.5    1203.1    1237.4    1839.6    2642.1
+  
+           1   -0.0000   -0.2567   -0.0000    0.0163    0.0886   -0.1539    0.7444   -0.1860
+           2   -0.0000   -0.4276   -0.0000    0.3858   -0.4614    0.3872   -0.0478   -0.1918
+           3   -0.1187   -0.0000   -0.5982   -0.0000   -0.0000    0.0000   -0.0000    0.0000
+           4    0.0000   -0.3013    0.0000    0.0891    0.2033   -0.2033   -0.6397    0.0167
+           5    0.0000    0.5221    0.0000   -0.0583   -0.0558   -0.1011   -0.0083   -0.0098
+           6    0.1603    0.0000    0.1884    0.0000    0.0000    0.0000    0.0000   -0.0000
+           7   -0.0000    0.5018    0.0000   -0.0896   -0.3419    0.1561   -0.0463    0.0222
+           8   -0.0000   -0.1858    0.0000   -0.5033    0.3934   -0.1038    0.0038   -0.0137
+           9   -0.2548    0.0000    0.1254    0.0000    0.0000   -0.0000    0.0000   -0.0000
+          10   -0.0000   -0.0452    0.0000   -0.0916    0.2778    0.7087    0.0977    0.5833
+          11   -0.0000   -0.1224    0.0000    0.1712   -0.2970   -0.4859    0.1192    0.7602
+          12   -0.1480   -0.0000    0.7672   -0.0000   -0.0000   -0.0000    0.0000   -0.0000
+          13    0.0000    0.1328    0.0000    0.0373   -0.0314    0.0103    0.0659   -0.0963
+          14    0.0000    0.2585    0.0000    0.7342    0.5448   -0.0343    0.0636   -0.0042
+          15    0.9346   -0.0000    0.0473   -0.0000   -0.0000    0.0000    0.0000    0.0000
+
+
+   Root No.       9
+
+                 7 A'  
+
+                2786.9
+  
+           1   -0.0845
+           2    0.0006
+           3   -0.0000
+           4    0.0294
+           5   -0.0030
+           6    0.0000
+           7   -0.2139
+           8    0.0072
+           9    0.0000
+          10    0.0609
+          11    0.0603
+          12   -0.0000
+          13    0.9657
+          14   -0.0790
+          15   -0.0000
+
+
+          DESCRIPTION OF VIBRATIONS
+
+
+ VIBRATION          1    1A"         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           370.99         O 3 -- H 5         +89.8% ( 94.0%)      0.0%
+ TRANSITION DIPOLE   0.8659         C 1 -- O 2          +7.0% ( 26.2%)      0.0%
+ TRAVEL (Ang.)       0.4625         C 1 -- O 3          +1.7% ( 12.8%)      0.0%
+ REDUCED MASS        0.8497         C 1 -- H 4          +1.5% ( 12.3%)      0.0%
+ EFFECTIVE MASS      1.9003
+ FORCE CONSTANT      0.0689
+
+ VIBRATION          2    1A'         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           562.75         C 1 -- O 3         +38.1% (119.0%)      2.8%
+ TRANSITION DIPOLE   0.4392         C 1 -- O 2         +27.0% (100.1%)      0.2%
+ TRAVEL (Ang.)       0.1694         C 1 -- H 4         +22.3% ( 90.9%)     99.8%
+ REDUCED MASS        4.1755         O 3 -- H 5         +12.6% ( 68.4%)     37.6%
+ EFFECTIVE MASS     19.7128
+ FORCE CONSTANT      0.7791
+
+ VIBRATION          3    2A"         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY           948.47         C 1 -- H 4         +75.1% ( 94.7%)      0.0%
+ TRANSITION DIPOLE   0.0987         C 1 -- O 2         +13.1% ( 39.6%)      0.0%
+ TRAVEL (Ang.)       0.1929         C 1 -- O 3         +11.7% ( 37.4%)      0.0%
+ REDUCED MASS        1.9115
+ EFFECTIVE MASS      4.1508
+ FORCE CONSTANT      1.0131
+
+ VIBRATION          4    2A'         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          1126.54         O 3 -- H 5         +53.8% ( 85.2%)      1.8%
+ TRANSITION DIPOLE   1.1803         C 1 -- O 3         +28.0% ( 61.5%)     68.4%
+ TRAVEL (Ang.)       0.1900         C 1 -- O 2          +9.6% ( 36.0%)      2.6%
+ REDUCED MASS        1.6576         C 1 -- H 4          +8.6% ( 34.2%)     96.5%
+ EFFECTIVE MASS      6.1876
+ FORCE CONSTANT      1.2394
+
+ VIBRATION          5    3A'         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          1203.13         C 1 -- O 3         +37.8% ( 70.8%)    100.0%
+ TRANSITION DIPOLE   0.9140         O 3 -- H 5         +29.7% ( 62.8%)     83.3%
+ TRAVEL (Ang.)       0.1711         C 1 -- H 4         +19.0% ( 50.3%)     96.0%
+ REDUCED MASS        1.9144         C 1 -- O 2         +13.5% ( 42.4%)      7.4%
+ EFFECTIVE MASS      8.1660
+ FORCE CONSTANT      1.6327
+
+ VIBRATION          6    4A'         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          1237.38         C 1 -- H 4         +71.8% ( 94.4%)      1.8%
+ TRANSITION DIPOLE   1.0240         C 1 -- O 3         +16.4% ( 45.1%)     99.3%
+ TRAVEL (Ang.)       0.2366         C 1 -- O 2         +10.4% ( 35.9%)      1.0%
+ REDUCED MASS        0.9738         O 3 -- H 5          +1.4% ( 13.4%)     78.9%
+ EFFECTIVE MASS      3.8159
+ FORCE CONSTANT      0.8785
+
+ VIBRATION          7    5A'         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          1839.56         C 1 -- O 2         +57.3% ( 99.5%)     99.9%
+ TRANSITION DIPOLE   4.5789         C 1 -- O 3         +21.4% ( 60.9%)     26.7%
+ TRAVEL (Ang.)       0.0757         C 1 -- H 4         +20.6% ( 59.6%)     15.3%
+ REDUCED MASS        6.3992         O 3 -- H 5          +0.8% ( 11.5%)     80.5%
+ EFFECTIVE MASS     13.3584
+ FORCE CONSTANT     12.7587
+
+ VIBRATION          8    6A'         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          2642.11         C 1 -- H 4         +95.6% ( 99.5%)     99.9%
+ TRANSITION DIPOLE   0.2367         C 1 -- O 2          +1.8% ( 13.5%)     55.4%
+ TRAVEL (Ang.)       0.1674         C 1 -- O 3          +1.6% ( 12.9%)      5.2%
+ REDUCED MASS        0.9112         O 3 -- H 5          +1.0% ( 10.4%)     98.7%
+ EFFECTIVE MASS      1.4777
+ FORCE CONSTANT      3.7476
+
+ VIBRATION          9    7A'         ATOM PAIR     ENERGY CONTRIBUTION    RADIAL
+ FREQUENCY          2786.92         O 3 -- H 5         +98.1% ( 99.0%)     98.9%
+ TRANSITION DIPOLE   1.4077         C 1 -- H 4          +1.0% ( 10.0%)     74.8%
+ TRAVEL (Ang.)       0.1619         C 1 -- O 3          +0.5% (  7.4%)     25.4%
+ REDUCED MASS        0.9226         C 1 -- O 2          +0.3% (  5.7%)     99.9%
+ EFFECTIVE MASS      1.3788
+ FORCE CONSTANT      4.2220
+
+      SYMMETRY NUMBER FOR POINT-GROUP Cs  =  1
+
+
+          SYSTEM IS A GROUND STATE
+
+
+ title
+ title
+
+
+          MOLECULE IS NOT LINEAR
+
+          THERE ARE  9 GENUINE VIBRATIONS IN THIS SYSTEM
+          THIS THERMODYNAMICS CALCULATION IS LIMITED TO
+          MOLECULES WHICH HAVE NO INTERNAL ROTATIONS
+
+
+
+
+                    CALCULATED THERMODYNAMIC PROPERTIES
+                                          *
+   TEMP. (K)   PARTITION FUNCTION   H.O.F.    ENTHALPY  HEAT CAPACITY ENTROPY
+                                   KCAL/MOL   CAL/MOLE    CAL/K/MOL  CAL/K/MOL
+
+
+ 298.00  VIB.     0.1311D+01                   388.4270     3.7438     1.8423
+         ROT.     0.8712D+04                   888.2813     2.9808    21.0096
+         INT.     0.1143D+05                  1276.7083     6.7246    22.8518
+         TRA.     0.3019D+27                  1480.4688     4.9680    37.4027
+         TOT.                      -80.800    2757.1771    11.6926    60.2546
+
+   *: NOTE: HEATS OF FORMATION ARE RELATIVE TO THE
+            ELEMENTS IN THEIR STANDARD STATE AT 298K
+              (=  Standard Enthalpy of Formation).
+
+            Hvib:  Zero-point energy is not included.
+                   frequencies of less than zero cm-1 are not included.
+            Hrot = (3/2)RT
+            Htra = (3/2)RT + pV = (5/2)RT
+
+            Heat capacity is Cp, not Cv
+
+          For more information, see: HTTP://OpenMOPAC.net/Manual/thermochemistry.html
+
+
+           FORCE CONSTANT IN CARTESIAN COORDINATES (Millidynes/A)
+
+    ATOM   CHEMICAL       X               Y               Z
+   NUMBER   SYMBOL  FORCE CONSTANT  FORCE CONSTANT  FORCE CONSTANT
+
+      1       C       15.857060        7.425645        2.293026
+      2       O       14.663559        1.054435        0.339009
+      3       O        6.239360        5.403852        0.224641
+      4       H        1.976569        2.756701        0.320495
+      5       H        4.354050        0.713020        0.072754
+
+ **********************
+ *                    *
+ * JOB ENDED NORMALLY *
+ *                    *
+ **********************
+
+
+
+ TOTAL JOB TIME:             0.04 SECONDS
+
+ == MOPAC DONE ==
