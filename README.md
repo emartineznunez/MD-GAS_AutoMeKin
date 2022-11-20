@@ -1,7 +1,7 @@
-# School on Kinetics and Dynamics of Chemical Reactions
-Material for the Master on Theoretical and Computational Chemistry
+# M2D School 
+Material for the M2D School
 
-Clone the repository as: git clone https://github.com/emartineznunez/MTC.git
+Clone the repository as: git clone https://github.com/emartineznunez/M2D-School.git
 
 The material includes simple examples for the following computer programs: 
 
