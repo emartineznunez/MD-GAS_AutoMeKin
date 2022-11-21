@@ -1,3 +1,5 @@
-module load cesga/2020 gcccore/system automekin/2021 
-sbatch -n 10 -t 00:10:00 llcalcs.sh FA_bxde.dat 10 5
+#!/bin/bash
+
+module load automekin/2021 
+sbatch -A biosim_serv --nodes=1 --ntasks=10  --partition=biosim -t 0-00:10:00 llcalcs.sh FA.dat 10 2
 
