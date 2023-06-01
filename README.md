@@ -1,5 +1,5 @@
 # M2D School 
-Material for the M2D School
+Material for the MD-GAS School
 
 Clone the repository as: git clone https://github.com/emartineznunez/M2D-School.git
 
