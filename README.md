@@ -1,4 +1,4 @@
-# M2D School 
+# MD-GAS School 
 Material for the MD-GAS School
 
 Clone the repository as: git clone https://github.com/emartineznunez/MD-GAS_AutoMeKin.git
