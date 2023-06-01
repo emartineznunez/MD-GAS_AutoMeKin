@@ -1,7 +1,7 @@
 # M2D School 
 Material for the MD-GAS School
 
-Clone the repository as: git clone https://github.com/emartineznunez/M2D-School.git
+Clone the repository as: git clone https://github.com/emartineznunez/MD-GAS_AutoMeKin.git
 
 The material includes simple examples for the following computer programs: 
 
