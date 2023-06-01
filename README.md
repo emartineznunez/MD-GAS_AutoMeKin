@@ -1,9 +1,7 @@
-# MD-GAS School 
-Material for the MD-GAS School
-
 ![image](https://github.com/emartineznunez/MD-GAS_AutoMeKin/assets/50674314/102e8392-0877-4f6a-b66f-92c6eb1dec3e)
 
-
+# MD-GAS School 
+Material for the MD-GAS School
 
 Clone the repository as: git clone https://github.com/emartineznunez/MD-GAS_AutoMeKin.git
 
